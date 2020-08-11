@@ -14,7 +14,11 @@
     "SPA"
   ],
   "dependencies": {
-    "express": "^4.15.4",
+    "express": "^4.17.1",
     "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
   }
 }
