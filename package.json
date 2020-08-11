@@ -1,0 +1,19 @@
+{
+  "name": "vue-spa",
+  "version": "1.0.0",
+  "description": "A single page application in Vue JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Irungu",
+  "license": "ISC",
+  "keywords": [
+    "Vue",
+    "SPA"
+  ],
+  "dependencies": {
+    "express": "^4.15.4",
+    "vue": "^2.6.11"
+  }
+}
