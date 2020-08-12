@@ -3,6 +3,6 @@ module.exports = {
   parserOptions: {
     sourceType: "module"
   },
-  extends: "standard",
-  plugins: ["html"]
+  extends: ["standard", "plugin:vue/recommended"],
+  plugins: ["vue"]
 };
